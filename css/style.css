@@ -1,0 +1,46 @@
+.myBody {
+	background-color: #fefefe;
+}
+
+.header {
+	width: 80%;
+	height: auto;
+	margin-left: 10%;
+	margin-top: 10%;
+	border-radius: 10px;
+}
+
+.myProfileImage {
+	width: 200px;
+	height: auto;
+}
+
+.introduction {
+	color: #B5B5B6;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	font-size: 200%;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 300;
+}
+
+.bigger {
+	color: #000;
+	font-family: 'Glegoo', serif;
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-family: 'Josefin Slab', sans-serif;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+.imagePlaceholder {
+	text-align: center;
+}
+
+.links {
+	text-decoration: none;
+	color: #000;
+}
